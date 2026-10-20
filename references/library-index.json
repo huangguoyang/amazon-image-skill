@@ -8,7 +8,8 @@
     "visual_pattern": "容量与电芯：局部透明、蓝色内部高亮、左文右特写",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/001.jpg"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "visual_pattern": "紧凑与随身：尺寸线稿和生活情境双栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/002.jpg"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "visual_pattern": "底座充电：分离上下主体、垂直连接光束",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/003.jpg"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "visual_pattern": "双口输入：真实墙插与线缆、顶部聚光",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/004.jpg"
   },
   {
     "id": 5,
@@ -52,7 +56,8 @@
     "visual_pattern": "多设备供电：连接光线和层叠范围圆环",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/005.jpg"
   },
   {
     "id": 6,
@@ -63,7 +68,8 @@
     "visual_pattern": "温控保护：盾形隐喻与比较曲线双栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/006.jpg"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "visual_pattern": "显示信息：局部产品、状态卡和端口引线",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/007.jpg"
   },
   {
     "id": 8,
@@ -85,7 +92,8 @@
     "visual_pattern": "户外便携：尺寸线稿与户外人物双栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/008.jpg"
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "visual_pattern": "显示功能：主屏与扇形排列的状态屏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/009.jpg"
   },
   {
     "id": 10,
@@ -107,7 +116,8 @@
     "visual_pattern": "显示信息：主产品与两侧端口引线、状态卡",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/010.jpg"
   },
   {
     "id": 11,
@@ -118,7 +128,8 @@
     "visual_pattern": "APP数据：手持手机与分组白色信息卡",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/011.jpg"
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
     "visual_pattern": "设置选项：三类界面卡与生活操作图",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/012.jpg"
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
     "visual_pattern": "APP数据：中央手机与左右分组信息卡",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/013.jpg"
   },
   {
     "id": 14,
@@ -151,7 +164,8 @@
     "visual_pattern": "连接步骤：手势、连接标识和连续界面卡",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/014.jpg"
   },
   {
     "id": 15,
@@ -162,7 +176,8 @@
     "visual_pattern": "补能接口：斜向插头近景与冷蓝渐变",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/015.jpg"
   },
   {
     "id": 16,
@@ -173,7 +188,8 @@
     "visual_pattern": "品牌氛围：黑底地平线与中央光束",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/016.jpg"
   },
   {
     "id": 17,
@@ -184,7 +200,8 @@
     "visual_pattern": "品牌氛围：黑底地平线与中央光束的近似版本",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/017.jpg"
   },
   {
     "id": 18,
@@ -195,7 +212,8 @@
     "visual_pattern": "单口能力：线稿参数与工作场景双栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/018.jpg"
   },
   {
     "id": 19,
@@ -206,7 +224,8 @@
     "visual_pattern": "旅行共享：两张使用情境并列",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/019.jpg"
   },
   {
     "id": 20,
@@ -217,7 +236,8 @@
     "visual_pattern": "兼容设备：四类设备网格",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/020.jpg"
   },
   {
     "id": 21,
@@ -228,7 +248,8 @@
     "visual_pattern": "速度主视觉：锐利主体与横向背景光带",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/021.jpg"
   },
   {
     "id": 22,
@@ -239,7 +260,8 @@
     "visual_pattern": "智能冷却：粒子球、环形界面与比较曲线",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/022.jpg"
   },
   {
     "id": 23,
@@ -250,7 +272,8 @@
     "visual_pattern": "通勤便携：低机位人物、手持产品与底部尺寸图标",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/023.jpg"
   },
   {
     "id": 24,
@@ -261,7 +284,8 @@
     "visual_pattern": "颜色搭配：多色手机与产品斜向组合",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/024.jpg"
   },
   {
     "id": 25,
@@ -272,7 +296,8 @@
     "visual_pattern": "识别保护：手机局部、屏幕与粒子罩",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/025.jpg"
   },
   {
     "id": 26,
@@ -283,7 +308,8 @@
     "visual_pattern": "快速补能：旅行座椅真实使用、下方两项指标",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/026.jpg"
   },
   {
     "id": 27,
@@ -294,7 +320,8 @@
     "visual_pattern": "散热结构：局部透明外壳、气流与温度对比",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/027.jpg"
   },
   {
     "id": 28,
@@ -305,7 +332,8 @@
     "visual_pattern": "无线速度：分离产品与手机、背景光带和比较条",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/028.jpg"
   },
   {
     "id": 29,
@@ -316,7 +344,8 @@
     "visual_pattern": "背书：证书、等级符号、平台与产品",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/029.jpg"
   },
   {
     "id": 30,
@@ -327,7 +356,8 @@
     "visual_pattern": "使用限制：手机外壳与正误兼容图标",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/030.jpg"
   },
   {
     "id": 31,
@@ -338,7 +368,8 @@
     "visual_pattern": "三项细节：支架、进风口、手持尺度",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/031.jpg"
   },
   {
     "id": 32,
@@ -349,7 +380,8 @@
     "visual_pattern": "功能总览：不同大小的卖点拼图卡",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/032.jpg"
   },
   {
     "id": 33,
@@ -360,7 +392,8 @@
     "visual_pattern": "保护概念：产品、半球粒子罩与圆形台面",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/033.jpg"
   },
   {
     "id": 34,
@@ -371,7 +404,8 @@
     "visual_pattern": "运动赛事情境：人物手持使用与左侧文案",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/034.jpg"
   },
   {
     "id": 35,
@@ -382,7 +416,8 @@
     "visual_pattern": "演出情境：人物手持使用与左侧文案",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/035.jpg"
   },
   {
     "id": 36,
@@ -393,7 +428,8 @@
     "visual_pattern": "便携尺度：酒红产品与手机、米色包袋",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/036.jpg"
   },
   {
     "id": 37,
@@ -404,7 +440,8 @@
     "visual_pattern": "调节供电：设备组合与三阶段曲线",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/037.jpg"
   },
   {
     "id": 38,
@@ -415,7 +452,8 @@
     "visual_pattern": "夜间模式：手指操作、暖床头场景与选中标签",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/038.jpg"
   },
   {
     "id": 39,
@@ -426,7 +464,8 @@
     "visual_pattern": "新品功能：酒红同色系产品组合与更新徽标",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/039.jpg"
   },
   {
     "id": 40,
@@ -437,7 +476,8 @@
     "visual_pattern": "折叠插脚：真实转轴、扇形范围与透明中间态",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/040.jpg"
   },
   {
     "id": 41,
@@ -448,7 +488,8 @@
     "visual_pattern": "旅途便携：行李箱上的设备与生活光线",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/041.jpg"
   },
   {
     "id": 42,
@@ -459,7 +500,8 @@
     "visual_pattern": "小体积：产品与织物衣物尺度关系",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/042.jpg"
   },
   {
     "id": 43,
@@ -470,7 +512,8 @@
     "visual_pattern": "办公补能：桌面使用、设备连接和暖色场景",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/043.jpg"
   },
   {
     "id": 44,
@@ -481,7 +524,8 @@
     "visual_pattern": "睡眠情境：暖灯、真实连接与模式选择提示",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/044.jpg"
   },
   {
     "id": 45,
@@ -492,7 +536,8 @@
     "visual_pattern": "使用说明：深底白色信息框和分条文字",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/045.jpg"
   },
   {
     "id": 46,
@@ -503,7 +548,8 @@
     "visual_pattern": "手势教学：三列产品、手指轮廓与动作标签",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/046.jpg"
   },
   {
     "id": 47,
@@ -514,7 +560,8 @@
     "visual_pattern": "兼容说明：浅底设备分类与适用条件",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/047.jpg"
   },
   {
     "id": 48,
@@ -525,7 +572,8 @@
     "visual_pattern": "功能总览：多色主产品与下方主次卖点卡",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/048.jpg"
   },
   {
     "id": 49,
@@ -536,7 +584,8 @@
     "visual_pattern": "更新兼容：手机操作与设备代际弧线",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/049.jpg"
   },
   {
     "id": 50,
@@ -547,7 +596,8 @@
     "visual_pattern": "产品主视觉：浅色冷暖渐变、手机局部和悬浮产品",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/050.jpg"
   },
   {
     "id": 51,
@@ -558,7 +608,8 @@
     "visual_pattern": "小巧创意：球类尺度隐喻与浅色空间",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/051.jpg"
   },
   {
     "id": 52,
@@ -569,7 +620,8 @@
     "visual_pattern": "多配色：成组产品、灰紫底与轻反射",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/052.jpg"
   },
   {
     "id": 53,
@@ -580,7 +632,8 @@
     "visual_pattern": "屏幕体验：中央主屏与低对比状态墙",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/053.jpg"
   },
   {
     "id": 54,
@@ -591,7 +644,8 @@
     "visual_pattern": "充电过程：三卡贯穿曲线、状态节点与电量阶段",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/054.jpg"
   },
   {
     "id": 55,
@@ -602,7 +656,8 @@
     "visual_pattern": "保护概念：粒子球与认证信息区域",
     "review_depth": "contact_sheet",
     "series": "nano_soft_gradient",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/055.jpg"
   },
   {
     "id": 56,
@@ -613,7 +668,8 @@
     "visual_pattern": "端口分配：细线产品、激活端口和虚线数字标签",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/056.jpg"
   },
   {
     "id": 57,
@@ -624,7 +680,8 @@
     "visual_pattern": "总输出：办公场景与大功率数字",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/057.jpg"
   },
   {
     "id": 58,
@@ -635,7 +692,8 @@
     "visual_pattern": "功能总览：主功率卡、接口近景与次级功能卡",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/058.jpg"
   },
   {
     "id": 59,
@@ -646,7 +704,8 @@
     "visual_pattern": "生活适用：机舱与办公情境双图",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/059.jpg"
   },
   {
     "id": 60,
@@ -657,7 +716,8 @@
     "visual_pattern": "支持说明：步骤文字与问题分类栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/060.jpg"
   },
   {
     "id": 61,
@@ -668,7 +728,8 @@
     "visual_pattern": "容量便携：入包动作、使用量参数与尺寸图标",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/061.jpg"
   },
   {
     "id": 62,
@@ -679,7 +740,8 @@
     "visual_pattern": "单口能力：商务场景与功率、设备充电时间底栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/062.jpg"
   },
   {
     "id": 63,
@@ -690,7 +752,8 @@
     "visual_pattern": "输入能力：端口近景、局部透明电芯与参数",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/063.jpg"
   },
   {
     "id": 64,
@@ -701,7 +764,8 @@
     "visual_pattern": "APP控制：手持手机、桌面产品与三项底部说明",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/064.jpg"
   },
   {
     "id": 65,
@@ -712,7 +776,8 @@
     "visual_pattern": "品牌组合：多产品、交叉蓝光与背景平台",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/065.jpg"
   },
   {
     "id": 66,
@@ -723,7 +788,8 @@
     "visual_pattern": "系列横幅：商务人物主图与独立产品侧栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/066.jpg"
   },
   {
     "id": 67,
@@ -734,7 +800,8 @@
     "visual_pattern": "功能总览：与58号文件完全相同",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": 58
+    "duplicate_of": 58,
+    "path": "assets/references/067.jpg"
   },
   {
     "id": 68,
@@ -745,7 +812,8 @@
     "visual_pattern": "生活适用：与59号文件完全相同",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": 59
+    "duplicate_of": 59,
+    "path": "assets/references/068.jpg"
   },
   {
     "id": 69,
@@ -756,7 +824,8 @@
     "visual_pattern": "户外控制：手机近景与背景产品、底部功能图标",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/069.jpg"
   },
   {
     "id": 70,
@@ -767,7 +836,8 @@
     "visual_pattern": "系列横幅：户外摄影人物与独立产品侧栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/070.jpg"
   },
   {
     "id": 71,
@@ -778,7 +848,8 @@
     "visual_pattern": "双口补能：两根真实连接线、墙插与指标",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/071.jpg"
   },
   {
     "id": 72,
@@ -789,7 +860,8 @@
     "visual_pattern": "容量使用：机舱场景卡、使用时长和底部便携图标",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/072.jpg"
   },
   {
     "id": 73,
@@ -800,7 +872,8 @@
     "visual_pattern": "单口输出：对角线设备与线缆、功率与时间底栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/073.jpg"
   },
   {
     "id": 74,
@@ -811,7 +884,8 @@
     "visual_pattern": "品牌组合：多产品与交叉蓝光的近似版本",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/074.jpg"
   },
   {
     "id": 75,
@@ -822,7 +896,8 @@
     "visual_pattern": "总输出：多设备和真实线缆、功率分配底栏",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/075.jpg"
   },
   {
     "id": 76,
@@ -833,7 +908,8 @@
     "visual_pattern": "功能总览：主功率卡和大小分级辅助卡",
     "review_depth": "contact_sheet",
     "series": "prime_dark_performance",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/076.jpg"
   },
   {
     "id": 77,
@@ -844,7 +920,8 @@
     "visual_pattern": "床头使用：暖灯、人物背景与产品支架",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/077.jpg"
   },
   {
     "id": 78,
@@ -855,7 +932,8 @@
     "visual_pattern": "兼容说明：设备网格与产品侧视双栏",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/078.jpg"
   },
   {
     "id": 79,
@@ -866,7 +944,8 @@
     "visual_pattern": "背书横幅：证书、等级符号和产品主次组合",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/079.jpg"
   },
   {
     "id": 80,
@@ -877,7 +956,8 @@
     "visual_pattern": "显示状态：多屏排列、中央高亮与两侧渐隐",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/080.jpg"
   },
   {
     "id": 81,
@@ -888,7 +968,8 @@
     "visual_pattern": "风扇结构：大幅部件近景、气流与三项事实",
     "review_depth": "contact_sheet_and_individual_image",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/081.jpg"
   },
   {
     "id": 82,
@@ -899,6 +980,7 @@
     "visual_pattern": "有线使用：平板桌面、真实线缆与左侧文案",
     "review_depth": "contact_sheet",
     "series": "maggo_cool_technology",
-    "duplicate_of": null
+    "duplicate_of": null,
+    "path": "assets/references/082.jpg"
   }
 ]

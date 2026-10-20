@@ -5,7 +5,7 @@ description: 亚马逊Listing文案与套图Prompt策划。支持用户拖拽上
 
 # Amazon Listing Skill — 亚马逊Listing全案架构师
 
-> **Version**: 2.7 | **Author**: OneStar x Samantha | **Language**: 中文
+> **Version**: 2.8 | **Author**: OneStar x Samantha | **Language**: 中文
 
 上传商品图片，AI自动完成三件事：
 1. **Listing文案** — 商品标题 + About This Item五点描述 + 基础信息表
@@ -55,7 +55,7 @@ description: 亚马逊Listing文案与套图Prompt策划。支持用户拖拽上
 
 ## 功能特效与特殊标注
 
-用户要求参考本地“资源库”，或需要数码产品的连接光线、冷却示意、粒子保护罩、屏幕状态、端口分配、柔和渐变与生活场景表达时，读取 [资源库学习方法](references/local-library-patterns.md)，按其图片索引选择并查看相应原图。先选择同一视觉系列，再迁移表达方式；不要将原品牌的参数和技术结构套到目标产品，也不自动上传原图。
+用户要求参考本地“资源库”，或需要数码产品的连接光线、冷却示意、粒子保护罩、屏幕状态、端口分配、柔和渐变与生活场景表达时，读取 [资源库学习方法](references/local-library-patterns.md)，按其图片索引选择并查看相应原图；索引的 `path` 相对于本 Skill 根目录，原图随包存放于 `assets/references/`。先检索用途，再用图像查看工具打开选中的2–4张原图，确认视觉细节后编写提示词，不能只读索引就声称已查看图片。先选择同一视觉系列，再迁移表达方式；不要将原品牌的参数和技术结构套到目标产品，也不自动上传原图。
 
 用户提供成套副图、产品页面参考，或要求学习页面布局、卖点顺序与信息层级时，读取 [产品套图与详情页布局](references/product-page-layouts.md)。区分参考拼板与最终页面，提炼标题、主体、参数、细节证据和阅读顺序；按用户张数与比例适配，不照搬拼板空白或列数。
 

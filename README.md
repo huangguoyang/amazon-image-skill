@@ -3,6 +3,14 @@
 > 🎯 亚马逊商品套图生成 AI 技能包 v1.0  
 > 专业商品套图 Prompt 生成工具
 
+## 随包图片参考库
+
+当前版本 v2.8 包含 **82张原始参考图片**（约55.2 MB，按SHA-256有80份不同内容），保留原分辨率与字节。图片位于 `assets/references/001.jpg` 至 `082.jpg`，原文件名和用途记录在 [图片索引](references/library-index.json)。
+
+安装时保留整个 Skill 文件夹，包括 `references/` 和 `assets/`。Agent 应先按卖点查索引，再以 Skill 根目录解析 `path`，用图像查看工具打开所选2–4张原图，然后参考实际视觉关系编写提示词。只下载 `SKILL.md` 无法使用完整参考库。
+
+参考图用于学习配色、布局与表达方法，其中品牌、认证和性能数据不自动适用于目标产品。
+
 ## 📖 简介
 
 Amazon Visual Architect 是一个专业的电商视觉设计 AI 技能，能够智能分析产品特性，提取统一品牌基因，生成高质量的 Amazon Listing 主图和 A+ 页面设计 Prompt。
