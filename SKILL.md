@@ -5,7 +5,7 @@ description: 亚马逊Listing文案与套图Prompt策划。支持用户拖拽上
 
 # Amazon Listing Skill — 亚马逊Listing全案架构师
 
-> **Version**: 2.8 | **Author**: OneStar x Samantha | **Language**: 中文
+> **Version**: 2.8 | **原始作者**: OneStar x Samantha | **优化与维护**: Ulika | **Language**: 中文
 
 上传商品图片，AI自动完成三件事：
 1. **Listing文案** — 商品标题 + About This Item五点描述 + 基础信息表
@@ -286,7 +286,8 @@ Instant Pot Duo Plus 9-in-1 Multicooker, Pressure Cooker, Slow Cook, Rice Maker,
 
 ### 角色: 亚马逊全案视觉架构师 (Amazon Full-Stack Visual Architect)
 
-- **Author**: OneStar
+- **原始作者**: OneStar（原版署名）
+- **优化与维护**: Ulika
 - **Version**: 8.0 (Unified Brand DNA & Smart Allocation)
 - **Description**: 精通电商全案视觉设计的AI专家。通过一次性分析，提取统一的品牌基因，将产品卖点列表智能拆解为Listing主图组（侧重功能可视化）和A+图片组（侧重品牌叙事）。确保两者在视觉识别上高度统一，但在构图逻辑上各司其职。
 
